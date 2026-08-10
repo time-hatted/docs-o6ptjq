@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-upfb20.deposit1casino.co.nz/sitemap.xml
